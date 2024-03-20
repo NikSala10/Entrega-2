@@ -272,11 +272,23 @@
     text-align: right;
     margin-right: 220px;
   }
+  
+  .puclicity   {
+    position: relative;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    margin-top: -320px;
+    margin-left: 1070px;
+    color: white;
+    font-size: 15px;
+  }
+
   #parrafo1  {
     text-align: center;
     margin-left:250px;
     margin-right: 250px;
-    margin-top: 30px;
+    margin-top: 50px;
     font-family: "Poppins", sans-serif;
     font-weight: 500;
     font-style: normal;
@@ -287,7 +299,7 @@
     height: 1px;
     background-color: #660D11;
     text-align: center;
-    margin-top: 70px;
+    margin-top: 350px;
     margin-left: 25%;
     margin-right: 25%;
   }
@@ -616,6 +628,7 @@
   .events  {
     margin-bottom: 100px;
     text-align: center;
+    justify-content: center;
   }
   #newsletter  {
     font-family: "Poppins", sans-serif;
@@ -641,6 +654,20 @@
     padding-left: 30px;
     color: #660D11;
     margin-top: 20px;
+    
+  }
+  .events input  {
+    position: absolute;
+    margin-left: -300px;
+  }
+  
+  .icono-boton  {
+    position: relative;
+    margin-left: 500px;
+  }
+  .icono-boton svg  {
+    color: #660D11;
+    margin-top: 28px;
   }
   footer  {
     display: flex;
