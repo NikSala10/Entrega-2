@@ -225,7 +225,7 @@
     font-size: 17px;
     cursor: pointer; 
     transition: background-color 0.3s;
-    margin-top: 75px;
+    margin-top: 20px;
     margin-left:85px;
     
 }
@@ -239,7 +239,7 @@
     font-size: 17px;
     cursor: pointer; 
     transition: background-color 0.3s;
-    
+   
 }
 .contenedor-imagen-info {
     position: absolute;
